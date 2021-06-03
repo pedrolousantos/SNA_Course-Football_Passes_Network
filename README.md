@@ -1,4 +1,4 @@
-# Social Network Analysis Course
+# Social Network Analysis (SNA) Course
 
 ## Football Passes Network
 
